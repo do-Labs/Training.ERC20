@@ -8,7 +8,8 @@ pragma solidity ^0.4.24;
 // Total supply: Gazillion
 // Decimals    : 18
 //
-//Humdan Bakhshi - The Do Labs, Engineering - Dallas, Tx
+//
+// (c) by Humdan Bakhshi - The Do Labs, Consulting. The MIT Licence.
 // ----------------------------------------------------------------------------
 
 
