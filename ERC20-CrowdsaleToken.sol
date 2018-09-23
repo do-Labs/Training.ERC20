@@ -3,7 +3,7 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------
 // 'HumpC' CROWDSALE token contract
 //
-// Deployed to : 0x47869C489a7FbF476A8Cb432Ece0c64700D18DCa
+// 
 // Symbol      : HMPC
 // Name        : HUMP Crowdsale Token
 // Total supply: Gazillion
@@ -11,7 +11,7 @@ pragma solidity ^0.4.24;
 //
 // Enjoy.
 //
-// (c) by Moritz Neto & Daniel Bar with BokkyPooBah / Bok Consulting Pty Ltd Au 2017. The MIT Licence.
+// 
 // ----------------------------------------------------------------------------
 
 
